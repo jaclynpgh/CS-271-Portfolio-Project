@@ -4,7 +4,7 @@ TITLE Programming Assignment  Designing Low-Level I/O procedures  (Proj6_mannja.
 ; Last Modified: 3/13/21
 ; OSU email address: mannja@oregonstate.edu
 ; Course number/section:   CS271 Section 400 W2021
-; Project Number:    6             Due Date: 3/14/21 enacted grace days to be due 3/16/21
+; Project Number:    6             Due Date: 3/14/21 
 ; Description: Program using macros where the user inputs 10 signed decimal integers that are small enough to fit into a 32 bit register.
 ; After numbers are entered, they are converted from ASCII to their numeric representation in order to validate then they are converted
 ; back to ASCII in order to display a list of numbers, as well as the sum and average of the numbers.
